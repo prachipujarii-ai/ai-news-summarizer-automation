@@ -68,8 +68,8 @@ Run the main script:
  Gemini Pricing: https://ai.google.dev/pricing?utm_source=copilot.com
 
 ## Author
-Prachi Pujari
-Github: @prachipujarii-ai
+Developed by: Prachi Pujari
+GitHub: @prachipujarii-ai 
 
 ## License
 MIT License
