@@ -67,6 +67,10 @@ Run the main script:
  OpenAI Pricing: https://openai.com/api/pricing?utm_source=copilot.coming
  Gemini Pricing: https://ai.google.dev/pricing?utm_source=copilot.com
 
+## Author
+Prachi Pujari
+Github: @prachipujarii-ai
+
 ## License
 MIT License
 
