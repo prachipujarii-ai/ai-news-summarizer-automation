@@ -38,15 +38,10 @@ Run the main script:
 `python main.py`
 
 ## Screenshots
-
-<img width="862" height="947" alt="image" src="https://github.com/user-attachments/assets/b25e9c37-354b-4417-b7a4-e25572ea1072" />
-
-
-
+### Email received:
 <img width="947" height="361" alt="image" src="https://github.com/user-attachments/assets/950620e5-f128-40b5-a737-22f7df48fb71" />
 
-
-
+### News Summarization:
 <img width="780" height="885" alt="image" src="https://github.com/user-attachments/assets/21efd1f3-c20c-4f7b-980f-5a8b5f49a5ab" />
 
 ## Example LLM Config
